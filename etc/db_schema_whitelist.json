@@ -1,0 +1,9 @@
+{
+    "inventory_source": {
+        "column": {
+            "mandae_token": true,
+            "mandae_customer_id": true,
+            "mandae_tracking_prefix": true
+        }
+    }
+}
